@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on MohammadEhsan Akhavanpour</title>
+    <link>https://ehsanap7.github.io/Ehsan_Portfolio/post/</link>
+    <description>Recent content in Projects on MohammadEhsan Akhavanpour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://ehsanap7.github.io/Ehsan_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: Sentiment Analysis of Twitter Dataset</title>
+      <link>https://ehsanap7.github.io/Ehsan_Portfolio/post/project-2/</link>
+      <pubDate>Tue, 10 Jan 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://ehsanap7.github.io/Ehsan_Portfolio/post/project-2/</guid>
+      <description>In this project, I used a Twitter dataset to perform sentiment analysis on tweets about Pfizer vaccines. The goal of this project was to understand the overall sentiment of people towards the Pfizer vaccine on Twitter. I used natural language processing techniques and machine learning algorithms to classify tweets as positive, negative, or neutral towards the Pfizer vaccine. The dataset was preprocessed to remove stopwords, punctuations, and special characters. I also used data visualization techniques to present the results in an easy-to-understand format.</description>
+    </item>
+    
+    <item>
+      <title>Project 1:Bias Detection and Mitigation</title>
+      <link>https://ehsanap7.github.io/Ehsan_Portfolio/post/project-1/</link>
+      <pubDate>Fri, 09 Dec 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://ehsanap7.github.io/Ehsan_Portfolio/post/project-1/</guid>
+      <description>Today, more decisions are being handled by artificial intelligence (AI) and machine learning (ML) algorithms, with increased implementation of automated decision-making systems in different applications. Unfortunately, ML algorithms are only sometimes as ideal as we would expect. The research has shown a model can perform differently for distinct groups within your data. Those groups might be identified by protected or sensitive characteristics, such as race, gender, age, and veteran status. In this paper, we investigate various methods for detecting, understanding, and mitigating unwanted algorithmic bias consisting of: Analyzing the dataset by Exploratory Data Analysis (EDA) and visualizing the sensitive features to check the possibility of fairness issues in the dataset.</description>
+    </item>
+    
+  </channel>
+</rss>
